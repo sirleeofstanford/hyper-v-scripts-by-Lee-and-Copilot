@@ -1,4 +1,4 @@
-#hyper-v scripts by Lee & Copilot
+# 🖥️ Hyper‑V Scripts by Lee & Copilot
 
 A legendary collection of PowerShell scripts to tame Hyper-V’s IP Address shuffle and restore adapter sanity. Built from real-world battle scars, whiteboard wisdom, and the joy of semantic infrastructure.
 
